@@ -1,3 +1,3 @@
 # Devoops
 aula devoops
-texto com conflito
+texto sem conflito
